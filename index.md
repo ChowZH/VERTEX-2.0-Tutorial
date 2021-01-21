@@ -12,4 +12,4 @@
 - Bullet 2
 
 # **Header 3**
-This is a sample page to try out markdown syntax on git. Trying to also link the [introduction](https://chowzh.github.io/VERTEX-2.0-Tutorial/intro.md) and [conclusion](hhttps://chowzh.github.io/VERTEX-2.0-Tutorial/conc.md) sections as well.
+This is a sample page to try out markdown syntax on git. Trying to also link the [introduction](https://chowzh.github.io/VERTEX-2.0-Tutorial/intro.md) and [conclusion](https://chowzh.github.io/VERTEX-2.0-Tutorial/conc.md) sections as well.
